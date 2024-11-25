@@ -3,7 +3,7 @@
 
 This GitHub repo contains all of the examples I make and use in my [blog](https://astral.observatory.com/).
 
-For every demonstrative article, there'll be a "solved" folder, which contains solution exploits/code to the example binaries.
+For every demonstrative article, there'll be a "solved" folder, which contains solution exploits/code to the example binaries. You can delete the folder if you want to follow along.
 
 
 As of right now, I've written about: 
