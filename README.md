@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/24baac8e-4e56-443b-ace3-2530cc4b701c)
 ## Astral's Observatory
 
 This GitHub repo contains all of the examples I make and use in my [blog](https://astral.observatory.com/).
